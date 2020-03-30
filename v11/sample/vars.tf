@@ -1,8 +1,8 @@
 # Configure these variables
 
-variable "sample_var" {
-  description = "A sample_var to pass to the template."
-  default     = "hello"
+variable "sample_var_new_brqnch" {
+  description = "A sample_var_new_brqnch to pass to the template."
+  default     = "new branch"
 }
 
 variable "sleepy_time" {
